@@ -76,8 +76,3 @@ switchMode.addEventListener('change', function () {
 })
 
 
-document.addEventListener('keyup',(e)=>{
-	navigator.clipboard.write Text('');
-	alert('screenshot disabled');
-});
-
